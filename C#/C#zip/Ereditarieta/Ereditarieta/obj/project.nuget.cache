@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjYSdYUHmzv+1jFSze72tS1cLhm2wjZS+FyOf/oqChOMBaUeDQ3GcQKlMvvJqAJS3cXcRQHKjdVWAJrwwhinDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frauc\\Desktop\\MyIts\\Programmazione\\C#\\C#zip\\Ereditarieta\\Ereditarieta\\Ereditarieta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frauc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\frauc\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\frauc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

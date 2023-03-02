@@ -1,0 +1,25 @@
+﻿@model MVC_BikeStore.Models.Brands
+
+@{
+    ViewBag.Title = "BrandsDetails";
+}
+
+<h2>BrandsDetails</h2>
+
+<div>
+    <h4>Brands</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Brand_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brand_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
