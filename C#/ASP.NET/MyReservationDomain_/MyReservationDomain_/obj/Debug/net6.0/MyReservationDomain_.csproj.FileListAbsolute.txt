@@ -1,0 +1,15 @@
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\bin\Debug\net6.0\MyReservationDomain_.deps.json
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\bin\Debug\net6.0\MyReservationDomain_.runtimeconfig.json
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\bin\Debug\net6.0\MyReservationDomain_.dll
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\bin\Debug\net6.0\MyReservationDomain_.pdb
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.csproj.AssemblyReference.cache
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.AssemblyInfoInputs.cache
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.AssemblyInfo.cs
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.csproj.CoreCompileInputs.cache
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.dll
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\refint\MyReservationDomain_.dll
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.pdb
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\MyReservationDomain_.genruntimeconfig.cache
+C:\Users\frauc\source\repos\ASP.NET\MyReservationDomain_\MyReservationDomain_\obj\Debug\net6.0\ref\MyReservationDomain_.dll
